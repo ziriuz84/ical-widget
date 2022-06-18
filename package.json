@@ -1,0 +1,25 @@
+{
+  "name": "ical-widget",
+  "version": "1.0.0",
+  "description": "A simple widget to show ical events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziriuz84/ical-widget.git"
+  },
+  "author": "Sirio Negri",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ziriuz84/ical-widget/issues"
+  },
+  "homepage": "https://github.com/ziriuz84/ical-widget#readme",
+  "dependencies": {
+    "optionator": "^0.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
